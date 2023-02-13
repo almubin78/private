@@ -1,0 +1,12 @@
+.list{
+    border:1px solid green;
+    margin-top: 5px;
+    padding: 10px;
+    border-radius: 10px;
+    height: 250px;
+    
+}
+hr{
+    width: 50%;
+
+}
